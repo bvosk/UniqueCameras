@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UniqueCameras": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\brian.voskerijian\\Downloads\\sites.json\""
+    }
+  }
+}
